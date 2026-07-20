@@ -1,0 +1,6 @@
+{
+  "name": "Fruitr Smoothie Showcase",
+  "description": "An ultra-premium, award-winning interactive landing page for a fruit smoothie brand, featuring a realistic 3D product showcase and smooth cinematic transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
